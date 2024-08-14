@@ -10,7 +10,7 @@
 
 ## 🛠️ Skills
 
-- **Front-End Development**: HTML, CSS, JavaScript, ES6, TypeScript, ReactJs
+- **Front-End Development**: HTML, CSS, JavaScript, ES6, TypeScript, ReactJs, Angular.
 - **Back-End Development**: Spring Boot, NodeJs (Express)
 - **Database Programming**: NoSQL (Cassandra, Couchbase, MongoDB, Redis), SQL (SQL Server, MySQL, Oracle Database Express), Messaging (Kafka, Redis Pub/Sub)
 - **Mobile App Development**: Native Android (Java), Native iOS (Objective-C & Swift), Flutter, React Native
@@ -18,6 +18,7 @@
 - **Programming Languages**: Java, Kotlin, Go, Python 3, C++, C#, JavaScript ES6, Dart, TypeScript, Swift
 - **Cloud Platforms**: Microsoft Azure, AWS
 - **Orchestrators**: Kubernetes
+- **Intrastructure as Code**: Pulumi
 - **Language Skills**: Arabic, English & French.
 
 ---
